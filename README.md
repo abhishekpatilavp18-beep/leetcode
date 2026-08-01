@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0054-spiral-matrix](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -91,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0204-count-primes) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
