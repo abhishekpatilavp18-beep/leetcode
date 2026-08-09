@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0231-power-of-two) |
+| [0509-fibonacci-number](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Bit Manipulation
 |  |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0231-power-of-two) |
+| [0509-fibonacci-number](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0509-fibonacci-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -105,4 +107,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0567-permutation-in-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
