@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0204-count-primes) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0054-spiral-matrix](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0088-merge-sorted-array) |
