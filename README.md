@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0567-permutation-in-string) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0242-valid-anagram) |
 ## Stack
 |  |
 | ------- |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0242-valid-anagram) |
 | [0567-permutation-in-string](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0567-permutation-in-string) |
 ## Sliding Window
 |  |
