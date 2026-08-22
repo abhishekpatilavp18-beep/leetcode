@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [3959-check-good-integer](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/3959-check-good-integer) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0054-spiral-matrix) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [3959-check-good-integer](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/3959-check-good-integer) |
 ## Matrix
 |  |
 | ------- |
