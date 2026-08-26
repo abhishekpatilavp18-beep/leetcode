@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3959-check-good-integer](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/3959-check-good-integer) |
@@ -134,10 +135,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Backtracking
 |  |
 | ------- |
