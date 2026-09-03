@@ -1,0 +1,61 @@
+class Solution {
+private:
+bool oddoreven(vector<int>& nums1){
+        int counteven =0;
+        int countodd=0;
+        int size = nums1.size();
+        for(int i =0;i<nums1.size();i++){
+            if(nums1[i]%2==0 ){
+                counteven++;
+            }
+            else{
+                countodd++;
+            }
+        }
+        if(counteven==size || countodd==size){
+            return true;
+        }
+         return false;
+}
+public:
+    bool uniformArray(vector<int>& nums1) {
+        if(oddoreven(nums1)){
+            return true;
+        }
+        int odd=INT_MAX;
+        vector<int> nums2(nums1.size());
+        for(int i =0;i<nums1.size();i++){
+            if(nums1[i]%2!=0){
+                odd=min(odd,nums1[i]);
+                
+            }
+        }
+            
+        
+        
+            
+            for(int j =0;j<nums1.size();j++){
+                 if(nums1[j]==odd || nums1[j]%2!=0 ){
+                    nums2[j]=nums1[j];
+                }
+                if(nums1[j]%2==0){
+                    if(nums1[j]-odd>=1){
+                        nums2[j]=nums1[j]-odd;
+                     }
+                }
+            
+            }
+            if(oddoreven(nums2)){
+                return true;
+            }
+        
+        
+        
+        
+        return false;
+        
+       
+        
+        
+    }
+};
