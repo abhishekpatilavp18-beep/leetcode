@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0283-move-zeroes) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1470-shuffle-the-array](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3875-construct-uniform-parity-array-i](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
