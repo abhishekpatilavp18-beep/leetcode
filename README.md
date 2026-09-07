@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1929-concatenation-of-array](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/1929-concatenation-of-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Binary Search
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0412-fizz-buzz) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [1929-concatenation-of-array](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/1929-concatenation-of-array) |
 | [3959-check-good-integer](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/3959-check-good-integer) |
 ## Matrix
 |  |
