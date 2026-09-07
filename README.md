@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/1137-n-th-tribonacci-number) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0268-missing-number) |
 | [1009-complement-of-base-10-integer](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/1009-complement-of-base-10-integer) |
 ## Recursion
 |  |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0283-move-zeroes) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -80,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0268-missing-number) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Two Pointers
 |  |
@@ -112,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0268-missing-number) |
 ## Stack
 |  |
 | ------- |
@@ -145,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0041-first-missing-positive) |
 | [0242-valid-anagram](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0268-missing-number) |
 | [0567-permutation-in-string](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0567-permutation-in-string) |
 ## Sliding Window
 |  |
