@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/1929-concatenation-of-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [1672-richest-customer-wealth](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/1672-richest-customer-wealth) |
 ## Enumeration
 |  |
 | ------- |
