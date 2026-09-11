@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/1929-concatenation-of-array) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3875-construct-uniform-parity-array-i](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Binary Search
