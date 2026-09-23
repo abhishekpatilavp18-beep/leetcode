@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0567-permutation-in-string) |
 ## String
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0567-permutation-in-string) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
