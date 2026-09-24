@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-convert-the-temperature](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/2469-convert-the-temperature) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Binary Search
