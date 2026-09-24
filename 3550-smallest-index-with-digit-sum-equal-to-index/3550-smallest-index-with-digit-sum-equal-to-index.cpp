@@ -2,9 +2,6 @@ class Solution {
 public:
     int smallestIndex(vector<int>& nums) {
       
-        if(nums[0]==0){
-            return 0;
-        }
             
         
         for(int i=0;i<nums.size();i++){
