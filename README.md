@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/1528-shuffle-string) |
+| [1678-goal-parser-interpretation](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/1678-goal-parser-interpretation) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
