@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0283-move-zeroes) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0567-permutation-in-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0268-missing-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Stack
 |  |
