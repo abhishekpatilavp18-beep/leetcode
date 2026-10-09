@@ -30,8 +30,8 @@ public:
         if (curr == NULL) { return head; }
         if(curr->val==val){
             prev->next =curr->next;
-            curr->next =NULL;
-            curr=prev->next;
+            
+            
             return removeElements(head,val);
         }
         return head;
