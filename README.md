@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Array
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0217-contains-duplicate) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0268-missing-number) |
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0242-valid-anagram) |
@@ -269,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0169-majority-element) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -297,4 +302,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0876-middle-of-the-linked-list) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
