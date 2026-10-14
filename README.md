@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0389-find-the-difference) |
 | [1009-complement-of-base-10-integer](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/1009-complement-of-base-10-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0443-string-compression) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0414-third-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -224,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0389-find-the-difference) |
 | [0567-permutation-in-string](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
