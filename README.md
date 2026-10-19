@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1688-count-of-matches-in-tournament](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/1688-count-of-matches-in-tournament) |
+| [2235-add-two-integers](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/2469-convert-the-temperature) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
