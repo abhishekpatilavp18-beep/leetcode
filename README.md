@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0414-third-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0383-ransom-note) |
+| [1051-height-checker](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -325,4 +328,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0169-majority-element) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
