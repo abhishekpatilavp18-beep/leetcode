@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0567-permutation-in-string) |
+| [0844-backspace-string-compare](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## String
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0567-permutation-in-string) |
 | [0709-to-lower-case](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0771-jewels-and-stones) |
+| [0844-backspace-string-compare](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0844-backspace-string-compare) |
 | [1108-defanging-an-ip-address](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/1528-shuffle-string) |
 | [1678-goal-parser-interpretation](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/1678-goal-parser-interpretation) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0844-backspace-string-compare) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
@@ -208,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/0844-backspace-string-compare) |
 | [1688-count-of-matches-in-tournament](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1929-concatenation-of-array](https://github.com/abhishekpatilavp18-beep/leetcode/tree/master/1929-concatenation-of-array) |
